@@ -1,12 +1,11 @@
-table {
-    width: 500px;
-    height: 300px;
-}
-td {
-    font-weight: bold;
+h1 {
+    font-size: 50px;
     text-align: center;
 }
-th {
+h2 {
+    font-size: 40px;
     font-weight: normal;
-    font-style: italic;
+}
+p {
+    font-size: 30px;
 }
